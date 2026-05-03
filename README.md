@@ -6,7 +6,6 @@ Me chamo Eduardo Piccoli Metzdorf e sou estudante de Engenharia de Software pela
 
 Atualmente, trabalho com suporte técnico, lidando com sistemas reais, análise e relatórios em banco de dados.
 
-<br/>
 
 ## Tech Stack
 
