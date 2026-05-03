@@ -2,8 +2,6 @@
 
 ### Suporte Técnico | Estudante de Engenharia de Software
 
-Atualmente atuando com suporte técnico e adquirindo experiência prática em sistemas corporativos, infraestrutura e regras de negócio, enquanto evoluo minhas habilidades em desenvolvimento de software.
-
 ---
 
 ## Tech Stack
