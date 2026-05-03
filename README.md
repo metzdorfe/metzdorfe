@@ -62,8 +62,7 @@ Atualmente, trabalho com suporte técnico, lidando com sistemas reais, análise 
 <br/>
 <br/>
 
-### Github Stats
----
+## Github Stats
 
 <br/>
 
