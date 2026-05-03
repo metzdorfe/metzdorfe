@@ -1,43 +1,201 @@
-# Eduardo Metzdorf
+# Eduardo Metzdorf 
 
-### Suporte Técnico | Estudante de Engenharia de Software
+**Estudante de Engenharia de Software | Suporte Técnico**
 
----
+Me chamo Eduardo Piccoli Metzdorf e sou estudante de Engenharia de Software pela Universidade do Contestado (UnC). Sou formado em Técnico em Informática pelo IFSC, onde atuei como monitor na disciplina de Algoritmos e Lógica de Programação, auxiliando alunos na resolução de exercícios e no desenvolvimento do raciocínio lógico.
+
+Atualmente, trabalho com suporte técnico, lidando com sistemas reais, análise e relatórios em banco de dados.
+
+<br/>
 
 ## Tech Stack
 
-### Linguagens
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+#### Linguagens
 
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-EF2D5E?style=for-the-badge)
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=metzdorfe&theme=tokyonight)
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
----
 
-## Contato
+<img
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+          
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopmetzdorf/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metzdorf.eduardo@hotmail.com)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    />
+                 
+<br/>
+
+#### Frameworks & Tools
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<img
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+          
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+
+<img
+    align="left" 
+    alt="Django"
+    title="Django" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+
+<img
+    align="left" 
+    alt="FastAPI"
+    title="FastAPI" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Flask"
+    title="Flask" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="SpringBoot"
+    title="SpringBoot" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+          
+<br/>
+
+#### Banco de Dados
+
+<img
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+
+<img
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+
+<img
+    align="left" 
+    alt="MariaDB"
+    title="MariaDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
+/>
+          
+
+<img
+    align="left" 
+    alt="Firebird"
+    title="Firebird" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
+/>
+                    
+<br/>          
+
+<br/>
+
+### Github Stats
+
+
+<div align="center">
+    <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://streak-stats.demolab.com?user=metzdorfe&theme=tokyonight" 
+    />
+</div>
