@@ -4,7 +4,7 @@
 
 Me chamo Eduardo Piccoli Metzdorf e sou estudante de Engenharia de Software pela Universidade do Contestado (UnC). Sou formado em Técnico em Informática pelo IFSC, onde atuei como monitor na disciplina de Algoritmos e Lógica de Programação, auxiliando alunos na resolução de exercícios e no desenvolvimento do raciocínio lógico.
 
-Atualmente, trabalho com suporte técnico, lidando com sistemas reais, análise e relatórios em banco de dados.
+Atualmente, trabalho com suporte técnico, atuando com sistemas fiscais, análise e relatórios em banco de dados.
 
 [![Email](https://img.shields.io/badge/Email-012677?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metzdorf.eduardo@hotmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopmetzdorf/) [![Instagram](https://img.shields.io/badge/-Instagram-001449?style=for-the-badge&logo=instagram&logoColor=FF&color:FF000)](https://www.instagram.com/eduardometzdorf/)
 
